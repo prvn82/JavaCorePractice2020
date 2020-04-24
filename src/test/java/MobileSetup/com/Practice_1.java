@@ -1,6 +1,5 @@
 package MobileSetup.com;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -11,7 +10,7 @@ public class Practice_1 {
 		// Write a java program to find the duplicate words and their number of
 		// occurrences in a string?
 
-		String Str = "My MY Name is Praveen";
+		String Str = "xxxxx xxxx yhh xxx ghaB SSS  XXXX dgggg B";
 
 		List<String> check = new LinkedList<String>();
 
