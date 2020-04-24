@@ -8,7 +8,7 @@ public class Practice_1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// Write a java program to find the duplicate words and their number of
-		// occurrences in a string?
+		// occurrences in a string Without HashMap Method?
 
 		String Str = "xxxxx xxxx yhh xxx ghaB SSS  XXXX dgggg B";
 
