@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.qa.Tests.DemoTest" duration-ms="43" started-at="2020-03-20T11:23:22 IST" finished-at="2020-03-20T11:23:22 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="43" started-at="2020-03-20T11:23:22 IST" finished-at="2020-03-20T11:23:22 IST">
+      <class name="com.qa.Tests.DemoTest">
+        <test-method status="PASS" signature="Div()[pri:0, instance:com.qa.Tests.DemoTest@cb5822]" name="Div" duration-ms="10" started-at="2020-03-20T11:23:22 IST" finished-at="2020-03-20T11:23:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Div -->
+        <test-method status="PASS" signature="Sum()[pri:0, instance:com.qa.Tests.DemoTest@cb5822]" name="Sum" duration-ms="0" started-at="2020-03-20T11:23:22 IST" finished-at="2020-03-20T11:23:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sum -->
+        <test-method status="PASS" signature="Sub()[pri:0, instance:com.qa.Tests.DemoTest@cb5822]" name="Sub" duration-ms="0" started-at="2020-03-20T11:23:22 IST" finished-at="2020-03-20T11:23:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sub -->
+        <test-method status="PASS" signature="multiply()[pri:0, instance:com.qa.Tests.DemoTest@cb5822]" name="multiply" duration-ms="0" started-at="2020-03-20T11:23:22 IST" finished-at="2020-03-20T11:23:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiply -->
+      </class> <!-- com.qa.Tests.DemoTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.qa.Tests.DemoTest -->
+</testng-results>
